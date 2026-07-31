@@ -72,3 +72,7 @@ See the "Conclusion & Discussion" section in the notebook — in short: predicti
 price *level* one day ahead is close to a random walk problem; predicting *returns*
 or *direction* instead would be a stronger next step and would likely change the
 tree-model ranking.
+
+## Author
+Aryan Raj — ML Internship, Naviotech Solution Pvt. Ltd.
+
